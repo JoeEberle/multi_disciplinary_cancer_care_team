@@ -10,7 +10,7 @@ Identify the multidisciplinary cancer care team roles and responsibilities in ca
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
