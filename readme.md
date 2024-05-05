@@ -46,4 +46,7 @@ To get started with the **Multi Disciplinary Cancer Care Team** solution reposit
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](multi_disciplinary_cancer_care_team.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](multi_disciplinary_cancer_care_team.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
