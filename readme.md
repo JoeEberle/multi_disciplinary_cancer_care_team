@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Multi Disciplinary Cancer Care Team - 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
-2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
+# Multi Disciplinary Cancer Care Team - Identify the multidisciplinary cancer care team roles and responsibilities in cancer treatment.
+Identify the multidisciplinary cancer care team roles and responsibilities in cancer treatment.
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Multi Disciplinary Cancer Care Team** - an example for your projects
 
-2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
+Identify the multidisciplinary cancer care team roles and responsibilities in cancer treatment.
 
 ![Image image_filename](sample.png)
 
