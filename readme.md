@@ -39,11 +39,8 @@ To get started with the **Multi Disciplinary Cancer Care Team** solution reposit
  ![additional_image](multi_disciplinary_cancer_care_team.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
