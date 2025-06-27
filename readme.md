@@ -2,7 +2,7 @@
     
 # Multi Disciplinary Cancer Care Team 
 
-## Identify the multidisciplinary cancer care team roles and responsibilities in cancer treatment.
+## 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
 
     
 ![Solution](code.png)
@@ -11,7 +11,7 @@
 
 Welcome to the solution **Multi Disciplinary Cancer Care Team** - an example for your projects
 
-Identify the multidisciplinary cancer care team roles and responsibilities in cancer treatment.
+2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
 
 ![Solution](code.png)
 
