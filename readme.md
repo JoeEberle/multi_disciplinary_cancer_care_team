@@ -4,21 +4,11 @@
 
 ## 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Multi Disciplinary Cancer Care Team** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Multi Disciplinary Cancer Care Team** 
 
 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple Performance optimization is not reccomended
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
